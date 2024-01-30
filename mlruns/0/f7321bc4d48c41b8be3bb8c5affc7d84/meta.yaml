@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91845/Desktop/Customer%20Personality%20analysis/mlruns/0/f7321bc4d48c41b8be3bb8c5affc7d84/artifacts
+end_time: 1706610751049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7321bc4d48c41b8be3bb8c5affc7d84
+run_name: crawling-snake-98
+run_uuid: f7321bc4d48c41b8be3bb8c5affc7d84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706610738392
+status: 3
+tags: []
+user_id: BAR_DAR_03
